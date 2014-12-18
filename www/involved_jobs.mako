@@ -244,6 +244,98 @@
         </div>
     </div>
 </div>
+<div id="ProjectCoordinator" class="panel-group">
+    <div class="panel panel-info">
+        <div class="panel-heading" class="accordion-toggle" data-toggle="collapse" href="#ProjectCoordinator_heading">
+                        <h4 class="panel-title">
+                <span class="chevron"> <span class="glyphicon glyphicon-chevron-right"></span> </span>
+                <a  data-parent="#ProjectCoordinator" >
+                    Project Coordinator
+                </a>
+            </h4>
+        </div>
+        <div id="ProjectCoordinator" class="panel-collapse collapse">
+            <div class="panel-body">
+                <dl class="dl-horizontal">
+                    <dt>Background</dt>
+                    <dd>
+                        <p>The Center for Open Science (COS) develops tools to support the scientific workflow (i.e., <a hfref="http://osf.io">Open Science Framework</a>), fosters community standards and efforts for open practices, and conducts metascience research - science on scientific practices.  COS is now hiring a Project Manager to support a new, major preregistration initiative that draws on products and services across the entire company.  We seek a Project Coordinator with extremely strong social and organizational skills to contribute to community and metascience efforts. This position is highly appropriate for recent or soon-to-be graduates from university that are highly motivated, passionate about science, and looking for full-time opportunities to contribute to improving scientific practices.  </p>
+                    </dd>
+                    <dt>Responsibilities</dt>
+                    <dd>
+                    <p>The key responsibilities for the Project Coordinator position include fostering and connections with the scientific community, providing consulting support to researchers about COS initiatives, maintaining project and funding documentation, implementing and supporting the preregistration documentation and review process, promoting COS initiatives to new groups, operating a major preregistration incentives program, and tracking progress on project timelines and goals. COS is a start-up with a large portfolio of activities.  As such, this position is likely to evolve over time with new, challenging initiatives to increase openness, integrity, and reproducibility of research.</p>
+                    </dd>
+                    <dt>Skills</dt>
+                    <dd>
+                        <p>Extremely high social and communication skills; Exceptional organization and attention to detail; Ability to use web communication and documentation software effectively; Team-oriented; Very strong work ethic; Multi-tasking; Self-starter and industrious; Adaptivity to rapidly changing demands in a high performance workplace; background in scientific methodology (B.A. level at least); effective writing skills.  Skills in programming, web development, and data analysis are a plus.</p>
+                    </dd>
+                    <dt>Notes</dt>
+                    <dd>
+                        <p>The Center for Open Science is an equal opportunity employer and strongly encourages applications from members of groups underrepresented in science and technology industries.  The Center for Open Science (COS) is a non-profit organization based in Charlottesville, Virginia dedicated to improving the alignment between scientific values and scientific practices.  Operating as a non-profit, technology start-up, the COS team moves quickly, identifies problems and creates solutions, encourages risk-taking, blends science and technology, is highly collaborative, is high energy, and is dedicated to openness.  Started in 2013, COS presently supports a staff of almost 50 and has acquired grants of >$14 million from multiple donors.  Get more information about COS elsewhere on this website and in papers articulating its motivating vision for “Scientific Utopia” for <a href="http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.692215#.VJCQ0GTF95x">scientific communication</a> and <a href="http://pps.sagepub.com/content/7/6/615.full">scientific practices</a>.</p>
+                    </dd>
+                    <dt>Location</dt>
+                    <dd>
+                        <p>The Center for Open Science is <a href="#location">located in Charlottesville, Virginia</a>.</p>
+                    </dd>
+                    <dt>Benefits</dt>
+                    <dd>
+                        <p>The Center for Open Science offers full time employees 401(k), health/dental/vision insurance, and 15 days of paid time off, in addition to a modern office space and <a href="#benefits">other amenities</a>.</p>
+                    </dd>
+                    <dt>Applying</dt>
+                    <dd>
+                        <p>COS is an equal opportunity employer committed to diversity, equity, and inclusiveness, and encourages applications from women and minorities.  Please submit a resume and cover letter explaining your background and interest in the position <a href="http://www.jobscore.com/jobs/centerforopenscience" target="_blank">here</a>.</p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="ProjectManager" class="panel-group">
+    <div class="panel panel-info">
+        <div class="panel-heading" class="accordion-toggle" data-toggle="collapse" href="#ProjectManager_heading">
+                        <h4 class="panel-title">
+                <span class="chevron"> <span class="glyphicon glyphicon-chevron-right"></span> </span>
+                <a  data-parent="#ProjectManager" >
+                    Project Manager
+                </a>
+            </h4>
+        </div>
+        <div id="ProjectManager" class="panel-collapse collapse">
+            <div class="panel-body">
+                <dl class="dl-horizontal">
+                    <dt>Background</dt>
+                    <dd>
+                        <p>The Center for Open Science (COS) develops tools to support the scientific workflow (i.e., <a hfref="http://osf.io">Open Science Framework</a>), fosters community standards and efforts for open practices, and conducts metascience research - science on scientific practices.  COS is now hiring a Project Manager to support a new, major preregistration initiative that draws on products and services across the entire company.  We seek a Project Manager with substantial training in research methodology, extremely strong social and organizational skills, action-orientation, and ability to identify and implement practical steps toward principled ideals.  This position is highly appropriate for recent or graduating PhD’s seeking to stay involved in scientific research and improve scientific practices.  </p>
+                    </dd>
+                    <dt>Responsibilities</dt>
+                    <dd>
+                    <p>The Project Manager will play a lead role on a new grant-funded initiative to define, promote, and evaluate standards for preregistration of studies and analysis plans across the sciences.  The project includes developing educational resources for preregistration, defining practical guides for efficient preregistration, establishing a preregistration review process, managing and promoting a major incentives program for preregistration, fostering and maintaining relationships with organizational partners on this project, and meeting concrete project objectives and milestones.  The Project Manager will work closely with many members of the COS team and be the point-of-contact for COS collaborations with a variety of other people and organizations in the scientific community.  COS is a start-up with a large portfolio of activities.  As such, this position is likely to evolve over time with new, challenging initiatives to increase openness, integrity, and reproducibility of research.   </p>
+                    </dd>
+                    <dt>Skills</dt>
+                    <dd>
+                        <p>Substantial training and experience in scientific research and methodology; Extremely high social and communication skills; Exceptional organization and attention to detail; Ability to use web communication and documentation software effectively; Team-oriented; Very strong work ethic; Multi-tasking; Self-starter and industrious; Adaptivity to rapidly changing demands in a high performance workplace; Very strong writing and data analysis skills.  Skills in programming and web development are a plus.</p>
+                    </dd>
+                    <dt>Notes</dt>
+                    <dd>
+                        <p>The Center for Open Science is an equal opportunity employer and strongly encourages applications from members of groups underrepresented in science and technology industries.  The Center for Open Science (COS) is a non-profit organization based in Charlottesville, Virginia dedicated to improving the alignment between scientific values and scientific practices.  Operating as a non-profit, technology start-up, the COS team moves quickly, identifies problems and creates solutions, encourages risk-taking, blends science and technology, is highly collaborative, is high energy, and is dedicated to openness.  Started in 2013, COS presently supports a staff of almost 50 and has acquired grants of >$14 million from multiple donors.  Get more information about COS at its website and in papers articulating its motivating vision for “Scientific Utopia” for<a href="http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.692215#.VJCQ0GTF95x">scientific communication</a> and <a href="http://pps.sagepub.com/content/7/6/615.full">scientific practices</a>.</p>
+                    </dd>
+                    <dt>Location</dt>
+                    <dd>
+                        <p>The Center for Open Science is <a href="#location">located in Charlottesville, Virginia</a>.</p>
+                    </dd>
+                    <dt>Benefits</dt>
+                    <dd>
+                        <p>The Center for Open Science offers full time employees 401(k), health/dental/vision insurance, and 15 days of paid time off, in addition to a modern office space and <a href="#benefits">other amenities</a>.</p>
+                    </dd>
+                    <dt>Applying</dt>
+                    <dd>
+                        <p>COS is an equal opportunity employer committed to diversity, equity, and inclusiveness, and encourages applications from women and minorities.  Please submit a resume and cover letter explaining your background and interest in the position <a href="http://www.jobscore.com/jobs/centerforopenscience" target="_blank">here</a>.</p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
 <div id="QATestEngineerIntern" class="panel-group">
     <div class="panel panel-info">
         <div class="panel-heading" class="accordion-toggle" data-toggle="collapse" href="#QATestEngineerIntern_heading">
@@ -448,27 +540,74 @@
 
 
 <h3><br><br><strong>What we do</strong></h3>
-<p>We work on the cutting edge of open source software. We are mission driven - increasing openness
-    and reproducibility in science research by building tools, forming community projects, and
-    conducting open, crowdsourced research. We are facilitating positive changes to the scientific
-    culture and reward structure.</p>
+<p>We work on the cutting edge of open source software. We are mission driven - increasing openness and reproducibility in science research by building tools, forming community projects, and conducting open, crowdsourced research. We are facilitating positive changes to the scientific culture and reward structure.</p>
 
-<div>
-    <!-- BEGIN LISTS -->
-    <div class="row col-md-12 front-lists-v1 margin-bottom-25">
-        <div>
-            <ul id="benefits" class="row list-unstyled margin-bottom-20 col-md-8">
-                <li><h3>Collaborate.</h3>The Center places a high value on developing skills and collaboration.<br> Teamwork, pair programming, collaboration internally and externally are daily practice.   </li>
-                <li><h3>Eat well.</h3> Keep your energy up with your favorite drinks and snacks from the fully stocked kitchen. <br> Enjoy catered lunches from local restaurants twice a week. </li>
-                <li><h3>Get fit.</h3> All full-time employees receive health, dental, and vision insurance. <br>We promote our own health and well-being with stand-up and exercise desks, <br>access to an on-site gym, and the great biking and hiking access in the community. </li>
-                <li><h3>Keep comfortable.</h3> We take our work seriously, and work best in <br>a casual environment - casual dress, bean bag chairs, high-quality workspaces,<br> and an open, non-hierarchical floor plan.  </li>
-                <li><h3>Get a Mac.</h3>  All full-time employees receive an Apple laptop of their choice and <br>a workstation with 27” screen. </li>
-                <li><h3>Plan for the future.</h3> We’ll help you set up your 401k, and COS contributes up to 4% matches.</li>
-                <li><h3>Enjoy the view.</h3> The modern and stylish COS offices are located in the heart of <br>Charlottesville on the downtown pedestrian mall.  Central Virginia and the Shenandoah mountains are right outside!  </li>
-            </ul>
-        </div>
-    </div>
-    <!-- END LISTS -->
+<div class="whatWeDo">
+    <!-- BEGIN TABLE -->
+    <table cellpadding="10px" >
+    <tr>
+    <td>
+    <a><center><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/collaborate.png);"></center></div></a></td>
+     <td>
+     <a><center> <div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Food.png);"></div></center></a>
+    </td>
+    <td>
+        <a><center> <div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/GetFit.png);"></div></center></a>
+        </div> </td>
+      <td>
+         <a><center> <div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Comfortable.png);"></div></center></a>
+    </td> 
+</tr>
+
+<tr>
+    <td><center><h3>Collaborate.</h3>
+    <br>
+    The Center places a high value on developing <strong> skills and collaboration </strong>. Teamwork, pair programming, collaboration internally and externally are daily practice.</center></td>
+   
+    <td><center><h3>Eat well.</h3>
+    <br>
+    <strong> Keep your energy up </strong> with your favorite drinks and snacks from the fully stocked kitchen.Enjoy catered lunches from local restaurants twice a week. </td> 
+
+   <td> <center><h3>Get fit.</h3>
+    <br>
+     All full-time employees receive health, dental, and vision insurance. We promote our own <strong> health and well-being </strong> with stand-up and exercise desks, access to an on-site gym, and the great biking and hiking access in the community.</center> </td>
+     <td><center> <h3>Keep comfortable.</h3>
+    <br>
+    We take our work seriously, and work best in a casual environment - casual dress, <strong> bean bag chairs </strong>, high-quality workspaces, and an open, non-hierarchical floor plan.</center> </td>
+    </tr>
+    
+<tr>
+</tr>
+<tr>
+  <td>
+        <a><center> <div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/computer.png);"></div></center></a>
+         </td>
+  <td>
+        <a><center> <div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/plan.png);"></div></center></a>
+    </td>
+    <td>
+        <a><center> <div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/view.png);"></div></center></a>
+
+    </td>
+    
+<tr><td> <center><h3>Get a Mac.</h3>
+    <br>
+    All full-time employees receive an <strong> Apple laptop</strong>of their choice and a workstation with 27” screen.
+ </center> </td>
+    
+    <td> <center><h3>Plan for the future.</h3>
+    <br>
+     We’ll help you set up your 401k, and <strong> COS contributes up to 4% matches.</strong></center> </td>
+        <td><center><h3>Enjoy the view.</h3>
+    <br>
+     The modern and stylish COS offices are located in the <strong> heart of Charlottesville</strong> on the downtown pedestrian mall.  Central Virginia and the Shenandoah mountains are right outside! </center> </td>
+    
+    </tr>
+    
+   
+    </table>
+
+    <!-- END TABLE -->
 </div>
 
 <div id = "location"></div>
