@@ -117,6 +117,12 @@ body {
     
 }
 
+.whatWeDo p {
+    text-align: left !important;
+    text-justify: inter-word;
+
+}
+
 /*From Responsive*/
 .header a.logo-v1 img {
     margin-top: 2px !important;
@@ -183,7 +189,7 @@ body {
 .service-box p {
     color: #656565;
     font-size: 15px;
-    text-align: center !important;
+    text-align: justify !important;
 }
 
 .service-box .service-box-heading {
@@ -192,6 +198,11 @@ body {
     margin-left: 0px;
 }
 
+/*.service-box .service-box-heading p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+*/
 .service-box .service-box-heading i {
     -webkit-border-radius: 34px;
     -moz-border-radius: 34px;
@@ -236,8 +247,15 @@ body {
     text-transform: uppercase;
 }
 
+.main-cos-logo img{
+    max-height: 400px;
+    max-width: 400px;
+    min-width: 90px;
+    min-height: 90px;
+}
+
 .hp-slide-head h1{
-    line-height:50px;
+    line-height:60px;
 }
 @media screen and (max-width:770px){
     .hp-slide-head{
@@ -621,7 +639,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top:20px;
-    padding-top: 100px;
+    padding-top: 0px;
+    padding-bottom: 30px;
 }
 
 @media screen and (max-width: 950px) {

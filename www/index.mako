@@ -19,7 +19,7 @@
             <div class="row tagline animated fadeIb"> 
                 <div class="hp-slide-head col-xs-6"> <h1> We foster the<br/> <strong>openness</strong> <br/> <strong>integrity
                 </strong> <br/> and <strong>reproducibility</strong> <br/> of scientific research </h1> </div>
-                <div class="col-xs-6"> <img src="static/img/cos_center_logo_small.png" /></div>
+                <div class="col-xs-6 main-cos-logo"> <img src="static/img/cos_center_logo_small.png" /></div>
             </div> 
             
 
@@ -35,10 +35,7 @@
     <div class="row margin-bottom-10">
         <!-- BEGIN INFO BLOCK -->
         <div class="lead col-xs-12">
-            <p>COS is dedicated to improving the alignment between scientific values and scientific practices. As a
-                non-profit technology start-up, our team moves quickly from problem to solution, and continuously evaluates
-                and improves our solutions.  We blend science and technology in support of open science - transparency
-                and inclusivity.</p>
+            <p>COS is a non-profit technology company providing free and open services to increase inclusivity and transparency of research. COS supports shifting incentives and practices to align more closely with scientific values.</p>
         </div>
         <!-- END INFO BLOCK -->
     </div>
@@ -68,19 +65,14 @@
                     <i class="fa fa-group blue"></i><br>
                     <span>Community</span>
                 </div>
-                <p>COS is fostering community among open-source developers, open science researchers, and the broader
-                    scientific community. Visit our Google group for the
-                    <a href="https://groups.google.com/forum/#!forum/openscienceframework">Open Science Collaboration</a>.
-                    Or, read about <a href="/communities">some of our community standards projects</a>.</p>
+                <p>COS fosters open science communities of researchers, developers, and leaders. Check out <a href="/communities">COS Communities</a> to learn more.</p>
             </div>
             <div class="col-md-4 col-sm-4">
                 <div class="service-box-heading">
                     <i class="fa fa-laptop blue"></i><br>
                     <span>Infrastructure</span>
                 </div>
-                <p>We support and improve the scientific workflow by connecting technologies that researchers use. See
-                    our work at the <a href="http://osf.io" target="_blank">Open Science Framework</a> and check out
-                    <a href="/communities/#tab_3">some of our other projects</a>.</p>
+                <p>COS supports and maintains the free <a href="http://osf.io" target="_blank">Open Science Framework</a> to help researchers manage and archive their research, privately or publicly. <a href="https://osf.io/getting-started/">Take a tour</a> to learn more.</p>
             </div>
         </div>
     </div>
@@ -96,17 +88,14 @@
                     <i class="fa fa-user blue"></i><br>
                     <span>Scientists</span>
                 </div>
-                <p>By providing tools for use and studying normative scientific practices, COS empowers scientists who want
-                    to make their work more discoverable and more streamlined.
-                    <a href="/involved_opportunities/#tab_2">Read about simple steps toward open science.</a></p>
+                <p>COS empowers scientists to make their work more accessible and reproducible, and includes researchers in communities studying, training, or changing research practices. <a href="/involved_participate/#tab_2">Explore simple steps toward open science.</a></p>
             </div>
             <div class="col-md-4 col-sm-4">
                 <div class="service-box-heading">
                     <i class="fa fa-book blue"></i><br>
                     <span>Publishers &amp; Societies</span>
                 </div>
-                <p>COS has built free, easy-to-adopt infrastructure for journals and societies to incentivize preregistration and
-                    sharing of data and materials. <a href="/involved_opportunities/#tab_3">Read more about how we can assist you.</a></p>
+                <p>COS maintains free, easy-to-adopt tools and services for journals, societies, and funders to incentivize openness and preregistration. <a href="/involved_participate/#tab_3">Read more about how COS can assist you.</a></p>
 
             </div>
             <div class="col-md-4 col-sm-4">
@@ -115,8 +104,8 @@
                     <span>Developers</span>
                 </div>
                 <p>COS builds open source web apps, connects via API with other services, and supports
-                    open projects. The scientific community can benefit from many open source practices and resources;
-                    <a href="/involved_opportunities/#tab_4">find out how you can contribute.</a></p>
+                    open projects.
+                    <a href="/involved_participate/#tab_4">find out how you can contribute.</a></p>
             </div>
         </div>
     </div>
