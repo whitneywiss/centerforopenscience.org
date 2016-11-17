@@ -86,7 +86,7 @@
                                         <li>Learn about training methods for grantees on transparency and reproducibility</li>
                                       </ul>
                                       <br>
-                                      If you are funding research and want to share good practices and/or learn about what leading edge funding organizations are doing to encourage reproducibility and transparency in the research community, please join us.</p>
+                                      If you are funding research and want to share good practices and/or learn about what leading edge funding organizations are doing to encourage reproducibility and transparency in the research community, please join us. TEST</p>
                                       <br>
                                      
                                       
